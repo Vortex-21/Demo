@@ -1,6 +1,6 @@
 # Demo
 Just playing around with github functionalities.
 
-# md 
+# Random Stuff
 md's full form is markdown.
 
